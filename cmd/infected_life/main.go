@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"bitbucket.org/avivklas/infected-life"
+	"github.com/avivklas/infected_life"
 	"strings"
 	"os"
 	"fmt"
